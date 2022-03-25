@@ -103,7 +103,7 @@ Using generative design patterns with flexible materials .
 
 Debugging scripts in Grasshopper.
 
-Serial communication across platfroms and systems.
+Serial communication across platforms and systems.
 
 Looking for online documentation makes working with electronics easier.
 
