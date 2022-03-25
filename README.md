@@ -78,14 +78,16 @@ https://www.prometec.net/esp32-serial-bluetooth/
 The values from the sensor were sent to a p5.js sketch of a violin synth. The values captured from were ranged and sent using the Serial.write(output) syntax. 
 
 For example:
+
 int x=TCS3430.getXData();
 int output = 1;
 
 At the p5.js end data receiving and playing a specific note looks like this:
 
+
 print(inData);
 if(inData == '1')
-  {pitch = "A4";}
+{pitch = "A4";}
 
 <img src="p5.js.png"/>
 
