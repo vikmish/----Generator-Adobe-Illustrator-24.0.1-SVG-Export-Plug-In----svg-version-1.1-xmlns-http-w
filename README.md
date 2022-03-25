@@ -95,7 +95,7 @@ if(inData == '1')
 
 ## Learnings
 
-Exploring hybrid fabrication methods with materials like TPU, PLA and PetG.
+Exploring hybrid fabrication methods with materials like TPU, PLA and PETG.
 
 Using generative design patterns with flexible materials .
 
