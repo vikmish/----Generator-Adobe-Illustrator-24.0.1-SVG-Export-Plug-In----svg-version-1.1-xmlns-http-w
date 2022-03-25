@@ -43,7 +43,7 @@ For the available time and resources, we decided to go ahead with the first conc
 ## Process
 
 ### First-hand Prototyping
-<img width="320" src="1.gif"/> <img  width="320" src="2.gif"/> <img width="320" src="4.gif"/>
+<img width="310" src="1.gif"/> <img  width="310" src="2.gif"/> <img width="310" src="4.gif"/>
 
 
 
