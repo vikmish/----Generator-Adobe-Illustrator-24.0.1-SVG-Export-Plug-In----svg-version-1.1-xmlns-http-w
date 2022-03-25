@@ -75,7 +75,7 @@ https://www.prometec.net/esp32-serial-bluetooth/
 
 <img src="Serial Com.png"/>
 
-The values from the senor were sent to a p5.js sketch of a violin synth. The values captured from were ranged and sent using the Serial.write(output) syntax. 
+The values from the sensor were sent to a p5.js sketch of a violin synth. The values captured from were ranged and sent using the Serial.write(output) syntax. 
 
 For example:
 int x=TCS3430.getXData();
