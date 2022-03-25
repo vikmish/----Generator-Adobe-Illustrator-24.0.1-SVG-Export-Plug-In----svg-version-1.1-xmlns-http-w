@@ -9,7 +9,7 @@ A wearable and co-designing session was organized to imagine, sketch and prototy
 
 Certain wearables using the materials made available were made. The event consisted of a 15 min prototyping session and a ramp walk to demonstrate the usage and wearability. Since it was a co-design session, we participated in the experiment and brainstormed with participants, while sharing knowledge and inspirations. 
 
-IMAGES x3
+![Extended Meetup Event](Fab-Challenge-2/Event.png "Extended Meetup Event")
 
 ## Ideation
 The ideation mainly involved:
